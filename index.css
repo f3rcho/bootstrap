@@ -4,7 +4,7 @@
 
 .btn-platzi {
     background-color: #97c93e;
-    color: white;
+    color: white !important;
 }
 
 .btn-platzi:hover {
